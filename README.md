@@ -1,2 +1,2 @@
 # Robotics_Control
-Collection of Robotics Control created by me
+This repository will be the main place to put my code for research
