@@ -1,3 +1,6 @@
+% TODO: Fix the H value to make the robots avoid from collision
+% NOTE: This code is cbf with centralized safety control
+
 clc, clear, close all;
 
 % Define parameters
