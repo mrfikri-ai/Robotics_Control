@@ -1,4 +1,5 @@
 % TODO: Finish the code
+% NOTE: This code is cbf with centralized safety control
 
 clc, clear, close all;
 
